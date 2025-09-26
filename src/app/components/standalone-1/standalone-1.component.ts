@@ -7,7 +7,7 @@ import { RouterLink, RouterOutlet } from '@angular/router';
   standalone: true,
   template: `
     <a routerLink="app">App</a> |
-    <a routerLink="standalone2">Standalone2</a>
+    <a routerLink="standalone2/2">Standalone2</a>
     <br /><br /><br />
     <router-outlet></router-outlet>
   `,
